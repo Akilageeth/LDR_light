@@ -16,3 +16,9 @@ LED GND pin = Arduino GND pin
 
 
 ![ldr_bb](https://user-images.githubusercontent.com/44220596/105282146-b18d8100-5bd3-11eb-974b-9c3e5e3c6dfa.jpg)
+
+
+Materials:-
+Arduino uno = https://bit.ly/30v5XcY
+LDR sensor module = https://bit.ly/367jiK4
+LEDs = https://bit.ly/2RqpfMM
